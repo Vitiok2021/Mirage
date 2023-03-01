@@ -286,14 +286,14 @@ body {
 
 .select__value::before {
   content: "";
-  background: url("../../../img/icons/web.svg") 0 0 no-repeat;
+  background: url("../img/icons/web.svg") 0 0 no-repeat;
   width: 2.25rem;
   height: 1.75rem;
 }
 
 .select__value:after {
   content: "";
-  background: url("../../../img/icons/downArrow.svg") 0 0 no-repeat;
+  background: url("../img/icons/downArrow.svg") 0 0 no-repeat;
   width: 0.5rem;
   height: 0.5rem;
   -ms-flex-item-align: center;
